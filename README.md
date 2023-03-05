@@ -31,13 +31,13 @@ To get started with this project, follow these steps:
 - Provides methods for interacting with the author table in the database.
 # PublisherRepository
 - Provides methods for interacting with the publisher table in the database.
-# BookService.java and BookServiceImpl
+# BookService and BookServiceImpl
 - Provide business logic for managing books.
-# AuthorService.java and AuthorServiceImpl 
+# AuthorService  and AuthorServiceImpl 
 - Provide business logic for managing authors.
 # PublisherService and PublisherServiceImpl
 - Provide business logic for managing publishers.
-# GraphqlController.java and GraphqlProvider.java
+# GraphqlController and GraphqlProvider
 - Provide the GraphQL endpoint and schema for querying and mutating books, authors, and publishers.
 
 
